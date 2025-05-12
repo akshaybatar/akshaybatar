@@ -23,7 +23,7 @@ Specializing in RESTful APIs, SaaS Architecture, DevOps & Frontend-Backend Integ
 
 ## 👨‍💻 About Me
 
-👋 Hi, I'm Akshay, a Full-Stack Web Developer with 3+ years of experience delivering robust and scalable applications. I specialize in crafting complete software solutions using:
+👋 Hi, I'm Akshay, a Full-Stack Web Developer with 4+ years of experience delivering robust and scalable applications. I specialize in crafting complete software solutions using:
 
 - 🔧 **PHP & Laravel** for high-performance backend development  
 - ⚡ **React, Next.js, and Vue** for modern, dynamic frontends  
