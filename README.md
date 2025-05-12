@@ -55,8 +55,8 @@ REST API | Agile Development | SaaS Platforms | Microservices | Payment Gateway 
 
 ## 📬 Contact & Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 💬 Telegram: [@yourTelegramUsername](https://t.me/yourTelegramUsername)  
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akshaybatar)  
+- 💬 Telegram:   
+- 🌐 Portfolio: 
 
 ---
